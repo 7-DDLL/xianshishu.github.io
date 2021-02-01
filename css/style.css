@@ -119,6 +119,7 @@ header ul li a:hover {
 .box {
 	display: flex;
 	animation: lunbo 10s linear infinite;
+	width: 1500px;
 }
 
 @-webkit-keyframes myfirst {
@@ -204,6 +205,7 @@ header ul li a:hover {
 
 .box01 {
 	display: flex;
+	width: 1500px;
 }
 
 .new {
@@ -373,6 +375,7 @@ footer {
 	text-align: center;
 	background-color: wheat;
 	height: 50px;
+	width: 1500px;
 }
 
 
@@ -397,6 +400,7 @@ footer {
 	display: flex;
 	height: 250px;
 	padding-top: 10px;
+	width: 1500px;
 }
 
 .in1 {
@@ -466,11 +470,15 @@ footer {
 
 .bb_j {
 	/*position: relative;*/
-	width: 1480px;
+	width: 1500px;
 	height: 530px;
 	/*margin: auto;*/
 	display: table-cell;
 	vertical-align: middle;
+}
+
+.zxyq{
+	width: 1500px;
 }
 
 .zxyq h2 {
@@ -572,6 +580,7 @@ footer {
 
 .box01_p {
 	display: flex;
+	width: 1500px;
 }
 
 .new_p {
