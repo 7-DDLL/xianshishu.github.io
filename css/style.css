@@ -501,6 +501,7 @@ footer {
 	align-content: center;
 	position: relative;
 	margin: 0 auto;
+	margin-left: 300px;
 }
 
 .jieshao h2 {
@@ -668,10 +669,22 @@ footer {
 	padding-top: 20px;
 }
 
+#m1 h3{
+	text-decoration: underline;
+}
+
+#m1 p{
+	font-size: small;
+}
+
 #m2 {
 	float: left;
 	padding-left: 200px;
 	padding-top: 20px;
+}
+
+#m2 h3{
+	text-decoration: underline;
 }
 
 #m3 {
